@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Ansh",
+      "class": "12th",
+      "address": "New Delhi",
+      "email": "ansh@gmail.com",
+      "city": "Delhi",
+      "password": "Demo@123"
+    },
+    {
+      "id": 4,
+      "name": "nick",
+      "class": "Mtech",
+      "address": "madedurg",
+      "email": "ningnang@gmail.com",
+      "city": "kolhapur",
+      "password": "hacker@1416"
+    },
+    {
+      "id": 5,
+      "name": "hrushi",
+      "class": "Mtech",
+      "address": "256,at.Mandedurg",
+      "email": "jay@gmail.com",
+      "city": "kolhapur",
+      "password": "sdsdsd"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
