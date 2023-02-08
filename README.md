@@ -29,5 +29,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Project Screenshots
 
-1] Fill student Details
+1] CREATE student Details
 ![Create](https://user-images.githubusercontent.com/64656198/217626527-ff466e26-6b92-4181-b88f-85990c49d4ab.png)
+
+2] READ student Details
+
