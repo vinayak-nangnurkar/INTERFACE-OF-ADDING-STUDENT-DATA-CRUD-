@@ -33,4 +33,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ![Create](https://user-images.githubusercontent.com/64656198/217626527-ff466e26-6b92-4181-b88f-85990c49d4ab.png)
 
 2] READ student Details
+![Read](https://user-images.githubusercontent.com/64656198/217628391-fc0fc917-e982-4ac2-b87b-a3f209621bf4.png)
+
+3] UPDATE student Details
 
