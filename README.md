@@ -40,3 +40,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 4] DELETE student Details
 ![Delete](https://user-images.githubusercontent.com/64656198/217629230-cd92f993-288d-4c30-be3e-a8bf320b853f.png)
+
+5]Final student Details
+![final](https://user-images.githubusercontent.com/64656198/217629575-460cd857-c929-4329-9b67-c4be7e8323c1.png)
